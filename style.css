@@ -103,10 +103,9 @@ input[type="submit"] {
     border-radius: 5px;
     cursor: pointer;
 }
-
-input[type="submit"]:hover {
-    background-color: #c0392b;
-}
 button{
     background-color: darkblue;
+}
+#submit{
+    background-color: #c0392b;
 }
